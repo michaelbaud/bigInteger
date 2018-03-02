@@ -1,0 +1,9 @@
+Grains
+Calculez le nombre de grains de blé sur un échiquier étant donné que le nombre sur chaque carré double.
+Il fut une fois un sage serviteur qui sauva la vie d'un prince. Le roi promit de payer tout ce que le serviteur pouvait imaginer. Sachant que le roi aimait les échecs, le serviteur dit au roi qu'il aimerait avoir des grains de blé. Un grain sur la première case d'un échiquier. Deux grains sur le suivant. Quatre sur la troisième, et ainsi de suite.
+Il y a 64 cases sur un échiquier.
+Écrivez le code qui s'affiche:
+le nombre de grains sur chaque carré, et
+le nombre total de grains
+
+Traduit avec www.DeepL.com/Translator
